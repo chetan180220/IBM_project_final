@@ -1,0 +1,9 @@
+/backend/builder.log
+/frontend/builder.log
+out.json
+update.json
+/config
+/.vscode
+demo.py
+curl.txt
+logs.txt
